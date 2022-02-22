@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Rowdies:wght@700&family=Ubuntu:ital,wght@0,300;1,300;1,700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    box-sizing: border-box;
+    line-height: 1.4;
+}
